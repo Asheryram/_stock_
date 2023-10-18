@@ -1,2 +1,2 @@
 # _stock_
-- added a readme file 
+- finding our groove
